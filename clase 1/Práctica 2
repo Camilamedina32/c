@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UFT-8">
+    <title>Las cotorras argentinas.</title>    
+</head>
+<body>
+    <h1> Cotorras argentinas</h1>
+    <h2>Ficha informativa</h2>
+    <p><strong>Nombre científico:</strong>Myiopsitta monachus.</p>
+    <p><strong>Tamaño:</strong>entre 27 a 31 cm de largo.</p>
+    <p><strong>Peso:</strong>entre 120 a 140 g.</p>
+    <p><strong>Caracteristicas principales:</strong>Su plumaje es de un verde brillante, con las alas verdes azuladas vistosas al momento de volar; la frente, mejillas, garganta, pecho y vientre son grises claros. Su cola es larga y puntiaguda, de color verde, como el dorso; el pico es ocre y las patas son grisáceas</p>
+    <p><strong>Hábitat:</strong>zonas arboladas, montes y bosques. En la Ciudad es muy común en todos los parques y plazas.</p>
+    <p><strong>Alimentación:</strong>en la naturaleza se alimenta de <em>semilas de plantas</em> tanto silvestres como cultivadas. También consume <em>frutos y flores</em>, así como <em>insectos adultos y sus larvas</em>.Pese a la importancia de los <em>elementos vegetales</em> en su dieta, si la ocasión se presenta, pueden alimentarse de la <em>carne de animales muertos.</em></p>
+    <h2>Vuelo.</h2>
+    <p>En la naturaleza vuelan en ruidosas bandadas a gran velocidad, nunca levantando las alas por encima del cuerpo, y aleteando constantemente.</p>
+    <h3>La cotorra argentina como especie invasora</h3>
+    <p>Se ha introducido en muchos lugares como mascotas que se liberaron y se liberan en la actualidad deliberadamente o por accidente y se asilvestraron. La cotorra argentina compite o desplaza a otras especies autóctonas</p>
+</body>
+</HTML>

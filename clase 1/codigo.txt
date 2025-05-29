@@ -1,0 +1,18 @@
+<DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset ="UFT-8">
+    <<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lo que escucho<title>
+    </head>
+    <body>
+        <h1>camila Medina</h1>
+        <h2>Cosas que hago un mis tiempo libre</h2>
+            <p> Si no estoy estudiando me gusta escuchar música en mi habitación</p>
+                <br>
+                <h3> ¿Qué tipo de música usualmente escuchas?</h3>
+                <p>Suelo escuchar cualquier genero, pero escucho más la música que pasan en la programacón de la radio Urbana Play </p>
+                <br>
+                <p> Podes saber mas de la  radio en su<a href ="https://urbanaplayfm.com/" target="_blank"> pagina</a>.</p>
+            </body>
+            </html>
